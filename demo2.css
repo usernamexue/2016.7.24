@@ -1,0 +1,33 @@
+		div{
+			width: 277px;
+		}
+		.wrapper{
+			border: 1px solid #2d285e;
+			margin: 0 auto;
+			padding: 34px 28px;
+			background-color: #31295c;
+		}
+		.wrapper #h4,.wrapper #h5,.wrapper #h3{
+			background-repeat: no-repeat;
+			height: 38px;
+		}
+		#h3,#h4{
+			border-bottom: 1px solid #10259a;
+		}
+		#h4,h5{
+			border-top: 1px solid #04abf2;
+		}
+		#h2{
+			height: 205px;
+			background-image: url(../images/5.png);
+		}
+		#h3{
+			height: 39px;
+			background: #0664d6 url(../images/tbg2.png) 229px 7px;  
+		}
+		#h4{
+			background: #0768d9 url(../images/tbg2.png) 229px -33px;	
+		}
+		#h5{
+			background: #046cdd 229px -73px url(../images/tbg2.png);
+		}

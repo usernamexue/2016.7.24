@@ -1,0 +1,43 @@
+		.h1 .h2,.h1 .h3,.h1 #h4,.h1 .h5,.h1 .h6,.h1 .h7{
+			background-repeat: no-repeat;
+		}
+		div{
+			width: 245px;
+		}
+		.h1{
+			border: 1px solid #ebca83;
+			border-bottom: none;
+			margin: 0 auto;
+			padding: 50px;
+			background-image: url(../images/margin.png);
+		}
+		.h2,.h3,#h4,.h5,.h6,.h7{
+			border-bottom: 1px solid #d7d7d7;	
+		}
+		.h2{
+			height: 49px;
+			background: #fff 21px 12px url(../images/tbg1.png);
+		}
+		.h3{
+			height: 46px;
+			background: #fdfdfd 21px -32px url(../images/tbg1.png);
+		}
+		#h4{
+			width: 242px;
+			height: 45px;
+			background: #fcfcfc 19px -79px url(../images/tbg1.png);
+			border-left: 3px solid #ce673a;
+			border-right: 1px solid #ebca83;
+		}
+		.h5{
+			height: 46px;
+			background: #fafafa 22px -126px url(../images/tbg1.png);
+		} 
+		.h6{
+			height: 47px;
+			background: #f7f7f7 21px -173px url(../images/tbg1.png);
+		}
+		.h7{
+			height: 51px;
+			background: #f6f6f6 21px -220px url(../images/tbg1.png);
+		}
